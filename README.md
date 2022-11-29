@@ -50,4 +50,5 @@ Estou em transição de carreira, unindo duas áreas que me identifico muito: De
 ---
   [![](https://visitcount.itsvg.in/api?id=gabijesumary&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
+https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
