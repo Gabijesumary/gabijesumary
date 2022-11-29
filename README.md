@@ -4,7 +4,9 @@ Sou designer, mestre em design com foco em Design & Emoção pela UFPE, apaixona
 
 Abri minha primeira empresa no último ano de faculdade, de lá pra cá já são 10 anos de experiência e 3 empresas. Hoje estou à frente apenas da Composer Locações. No meu LinkedIn você encontra toda minha trajetória profissional.
 
-Estou em transição de carreira, unindo duas áreas que me identifico muito: Design e Tecnologia. Atualmente faço Análise e Desenvolvimento de Sistemas e sou estagiária Full-Stack com conhecimento em Html, Css, Typescript, JavaScript, React JS, Node JS, .Net C# e Angular.
+Estou em transição de carreira, unindo duas áreas que me identifico muito: Design e Tecnologia. Atualmente faço Análise e Desenvolvimento de Sistemas e sou estagiária Full-Stack com conhecimento em Html, Css, Typescript, JavaScript, React JS e Node JS.
+
+No momento estudando C#, Angular e Power Platform.
 
 ---
 ## ✅ Certifications:
